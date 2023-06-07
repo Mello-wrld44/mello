@@ -1,0 +1,66 @@
+UL{
+    list-style-type: none; margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+LI{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover{background-color: none}
+h3{text-align: center;
+    color: chartreuse;
+    font-family: "DejaVu Sans Condensed";
+}
+ul{color: cadetblue}
+.fruits{
+    background-color: gold;
+border: 2px  solid blue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: chartreuse;
+}
+.cars{
+    background-color: aqua;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: red;
+    font-family: "Droid Sans Fallback";
+}
+.FRUITS{
+    background-color: dodgerblue;
+    border: 2px;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: lawngreen;
+    font-family: FreeSans;
+
+}
+#matunda{
+    background-color: red;
+    border: 5px dotted chartreuse;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: dodgerblue;
+    font-family: "Abyssinica SIL";
+}
+#magari{
+    background-color: cyan;
+    border: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: yellow;
+    font-family: historical-forms;
+}
